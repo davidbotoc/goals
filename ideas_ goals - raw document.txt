@@ -1,0 +1,38 @@
+Goal1: AI SDLC Integration, Developer Tooling & Full Agentic AI
+Goal2: Enterprise Tech Debt Reduction & Application Modernization
+Goal3: Operational Delivery Excellence: Regional Commitment & Delivery Predictability
+
+Performance Goal !
+Check-in Notes []
+Milestones
+Organization Alignment
+
+Best practices in ADO
+! Agent to avoid mistakes in ADO/repositories
+Agent to review code ?
+Versions -> Major.Minor.Patch in ADO
+Obsolete Applications Backup (Database Data and legacy code repository) / Real-time data applications & also for repositories
+Logging/Tests/Semantic versioning for every app
+Docker + yaml
+Postgresql
+A better agenda for deployment - plan each deployment
+Branch policies/security - God mode
+NotebookLM/Chatbot for application
+nvm > node version manager; same for .NET, etc.
+
+Best practices for databases
+ACID > Consistency
+Single Source of Truth
+Principii de modelare a datelor > Normalizarea datelor
+				> Denormalizare controlata
+				> Single Source of Truth
+Principii de integritate a datelor
+Tipare moderne de persistenta si scriere > CQRS
+					 > Event Sourcing
+					 > Idempotenta la nivel de date
+Introducere database scripts in backend solution
+
+Platforma care sa contina 3 mici aplicatii - integrarea postgresql + .net + angular
+Agentic AI - containere de docker pe un server > testarea aplicatiilor / Simularea unei echipe de QA
+
+
