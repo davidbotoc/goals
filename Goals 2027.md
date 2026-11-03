@@ -1,4 +1,4 @@
-# Goals 2027 – Trecerea la nivel Mid
+# Goals 2027 – Mid
 
 Draft pentru discuția cu team lead-ul. Valorile numerice și numele proceselor sunt placeholder-uri, de înlocuit cu baseline-ul real.
 
